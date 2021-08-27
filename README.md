@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sheena.
+- 👀 I’m interested in JavaScript.
+- 🌱 I’m currently learning DevOps.
+- 💞️ I’m looking to collaborate on JavaScript Projects.
+- 📫 How to reach me -> fullstacksheena@gmail.com
